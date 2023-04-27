@@ -2,7 +2,9 @@
 
 <br />
 <div align="center">
-  <h3 align="center">Bootstrap Carousel for WordPress</h3>
+  ![boostrap-carousel-for-wordpress_github](https://user-images.githubusercontent.com/37003848/234825607-b9b8b8e0-56a4-46aa-bf4d-26dc636be601.png)
+  <h3 align="center">Bootstrap Carousel Block for WordPress</h3>
+ 
 
   <p align="center">
     A slideshow component for cycling through images. Built for WordPress with ACF Pro.
