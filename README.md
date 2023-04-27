@@ -2,7 +2,7 @@
 
 <br />
 <div align="center">
-  ![boostrap-carousel-for-wordpress_github](https://user-images.githubusercontent.com/37003848/234825607-b9b8b8e0-56a4-46aa-bf4d-26dc636be601.png)
+    <img src="https://user-images.githubusercontent.com/37003848/234825607-b9b8b8e0-56a4-46aa-bf4d-26dc636be601.png" alt="Logo" width="530" height="300">
   <h3 align="center">Bootstrap Carousel Block for WordPress</h3>
  
 
@@ -53,9 +53,6 @@
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
